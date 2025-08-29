@@ -6,7 +6,7 @@ Built with modern tools and sprinkled with a space-themed design. 🌠
 
 ## 🛰️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) - Handles the frontend **user interface** and builds dynamic, reusable components
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) Handles the frontend **user interface** and builds dynamic, reusable components
 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) - **CSS framework** responsible for consistent styling and responsive design with custom themes and maintainable layouts
 
