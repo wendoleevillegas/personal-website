@@ -11,7 +11,7 @@ export const StarBackground = () => {
         generateMeteors();
 
         const handleResize = () => {
-            generateMeteors();
+            generateStars();
             // add Stars() if stars are too much on mobile
         };
 
