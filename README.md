@@ -1,6 +1,6 @@
 # 🚀 My Website
 
-Welcome to my personal **portfolio website**, where I showcase the projects, skills, and experiments I've learned and accumulated over the years.
+Welcome to my personal **portfolio website**, where I showcase the projects, skills, and experience I've learned and accumulated over the years.
 Built with modern tools and sprinkled with a space-themed design. 
 
 
