@@ -17,8 +17,8 @@ Built with modern tools and sprinkled with a space-themed design.
 
 
 ## 🌍 Check it out  
-Check out the site here: [**Website**](https://https://wendoleevillegas.vercel.app)
-
+Check out the website <a href="https://wendoleevillegas.vercel.app" target="_blank"> here</a>
+<p> Inspiration: <a href="https://www.youtube.com/watch?v=ifOJ0R5UQOc&t=5093s" target="_blank">Modern Personal Portfolio w/ React and TailwindCSS </a> </p>
 
 ## 🛠️ Features
 
