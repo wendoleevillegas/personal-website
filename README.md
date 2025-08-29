@@ -6,9 +6,15 @@ Built with modern tools and sprinkled with a space-themed design, this portfolio
 
 ## 🛰️ Tech Stack
 
-- ⚛️ **ReactJS** – For building interactive and dynamic UI components  
-- 🎨 **Tailwind CSS** – For sleek, responsive, and customizable styling  
-- ☁️ **Vercel** – For fast, reliable, and interstellar deployment  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" alt="Vercel" />
+</p>
+
+- ⚛️ **ReactJS** – Command module for building UI systems  
+- 🎨 **Tailwind CSS** – Adaptive styling across devices  
+- ☁️ **Vercel** – Orbital deployment platform  
 
 
 ## 🌍 Live Demo  
