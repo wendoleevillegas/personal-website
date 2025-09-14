@@ -3,12 +3,30 @@ import { ExternalLink, Github, ArrowRight } from "lucide-react";
 const projects = [
     {
         id: 1,
+        title: "SociableUTA",
+        description: "Social media dashboard to automate cross-platform management at UTA.",
+        image: "/projects/SociableUTA.png",
+        tags: ["JavaScript", "React", "Express.js", "Node.hs", "MongoDB"],
+        demoUrl: "",
+        githubUrl: "https://github.com/wendoleevillegas/sociable-UTA",
+    },
+    {
+        id: 2,
         title: "Mav Grades",
         description: "An interactive academic analytics platform by students, for students.",
         image: "/projects/MavGrades.png",
         tags: ["HTML", "React", "Tailwind CSS", "Next.js", "JavaScript"],
         demoUrl: "https://mavgrades.com",
         githubUrl: "https://github.com/wendoleevillegas/uta-grades",
+    },
+    {
+        id: 3,
+        title: "Crop 'n' Drip (HACKUTA2024 3rd place)",
+        description: "An IoT-based smart irrigation system that optimizes water usage for crops.",
+        image: "/projects/CropNDrip.PNG",
+        tags: ["IoT", "Python", "C", "Microsoft Azure", "Azure Service Bus"],
+        demoUrl: "https://devpost.com/software/crop-n-drip",
+        githubUrl: "https://github.com/wendoleevillegas/HackUTA6",
     },
 ];
 
@@ -21,7 +39,7 @@ export const ProjectsSection = () => {
                 </h2>
 
                 <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-                    Here are my projects, showcasing my skills in web development and software engineering. (FIX LATER)
+                    Here are my projects, showcasing my skills in web development and software engineering.
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

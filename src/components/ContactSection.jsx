@@ -60,7 +60,7 @@ export const ContactSection = () => {
 
                         <div className="space-y-6 justify-center">
                             <div className="flex items-start space-x-4">
-                                <div className="p-3 rounded-full bg-primary/10">
+                                {/* <div className="p-3 rounded-full bg-primary/10">
                                     <Phone className="h-6 w-6 text-primary" />{""}
                                 </div>
                                 <div>
@@ -71,7 +71,7 @@ export const ContactSection = () => {
                                     >
                                         +1 (682)-551-2632
                                     </a>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
 
@@ -83,7 +83,7 @@ export const ContactSection = () => {
                                 <div>
                                     <h4 className="font-medium"> Location</h4>
                                     <a className="text-muted-foreground hover:text-primary transition-colors">
-                                        Fort Worth, Texas
+                                        DFW Metroplex, Texas
                                     </a>
                                 </div>
                             </div>

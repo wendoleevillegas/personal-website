@@ -11,7 +11,7 @@ const skills = [
     { name: "PHP", level: 70, category: "Languages" },
 
     // Frameworks & Libraries
-    { name: "ReactJS", level: 80, category: "Frameworks/Libraries" },
+    { name: "React", level: 80, category: "Frameworks/Libraries" },
     { name: "Tailwind CSS", level: 80, category: "Frameworks/Libraries" },
     { name: "Node.js", level: 80, category: "Frameworks/Libraries" },
     { name: "Next.js", level: 80, category: "Frameworks/Libraries" },
@@ -27,7 +27,7 @@ const skills = [
     { name: "Unix", level: 80, category: "Tools" },
     { name: "Google Colab", level: 80, category: "Tools" },
     { name: "Jupyter Notebook", level: 80, category: "Tools" },
-    { name: "Azure Service Bus", level: 80, category: "Tools" },
+    { name: "Azure Service Bus", level: 60, category: "Tools" },
 
 ];
 
